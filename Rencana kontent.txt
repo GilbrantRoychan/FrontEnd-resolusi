@@ -5,3 +5,4 @@ Rencana kontent Gilbrant
 -CSS
 *CSS grid dan Flexbox
 -Vlog
+*Vlogger Travelling
