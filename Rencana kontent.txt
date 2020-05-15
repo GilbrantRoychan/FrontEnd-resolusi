@@ -1,0 +1,7 @@
+Rencana kontent Gilbrant
+
+-HTML
+*Belak=jar syintax HTMl
+-CSS
+*CSS grid dan Flexbox
+-Vlog
